@@ -1,0 +1,3 @@
+/home/ruxuge/CLionProjects/SDL2_GAME/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ruxuge/CLionProjects/SDL2_GAME/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ruxuge/CLionProjects/SDL2_GAME/cmake-build-debug/CMakeFiles/SDL2_GAME.dir
